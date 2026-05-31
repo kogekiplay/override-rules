@@ -14,6 +14,7 @@ export const PROXY_GROUPS = {
     FRONT_PROXY: "前置代理",
     STATIC_RESOURCES: "静态资源",
     AI_SERVICE: "AI服务",
+    CLAUDE: "Claude",
     CRYPTO: "加密货币",
     APPLE: "苹果服务",
     GOOGLE: "谷歌服务",
