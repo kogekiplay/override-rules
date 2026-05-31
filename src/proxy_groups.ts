@@ -166,14 +166,14 @@ export function buildProxyGroups({
             proxies: defaultProxies,
         },
         {
-            name: PROXY_GROUPS.AI_SERVICE,
-            icon: `${CDN_URL}/gh/Koolson/Qure@master/IconSet/Color/ChatGPT.png`,
+            name: PROXY_GROUPS.CLAUDE,
+            icon: `${CDN_URL}/gh/luestr/IconResource@main/App_icon/120px/Claude.png`,
             type: "select",
             proxies: defaultProxies,
         },
         {
-            name: PROXY_GROUPS.CLAUDE,
-            icon: `${CDN_URL}/gh/luestr/IconResource@main/App_icon/120px/Claude.png`,
+            name: PROXY_GROUPS.AI_SERVICE,
+            icon: `${CDN_URL}/gh/Koolson/Qure@master/IconSet/Color/ChatGPT.png`,
             type: "select",
             proxies: defaultProxies,
         },
